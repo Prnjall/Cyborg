@@ -1,0 +1,7 @@
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 80px;
+}
+
+@import './tailwind.css';
+@import './theme.css';
